@@ -13,6 +13,7 @@ In this scenario, I conducted an experiment where we applied Label Encoding and 
 After encoding the categorical variable, we built two separate linear regression models:
 
 Model 1: Label Encoding
+
 Model 2: OneHot Encoding
 
 Evaluated the performance of each model by examining their R-squared values, which measure the proportion of the variance in the dependent variable (price) that is predictable from the independent variables (features). A higher R-squared value indicates a better fit of the model to the data.
