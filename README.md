@@ -8,7 +8,7 @@ In the realm of predictive modeling and machine learning, encoding categorical v
 
 Two common encoding techniques are Label Encoding and OneHot Encoding. Label Encoding assigns a unique integer to each category, while OneHot Encoding creates binary columns for each category, representing its presence or absence. Description:
 
-In this scenario, I conducted an experiment where we applied Label Encoding and OneHot Encoding to the "town" variable in a dataset containing information about housing prices. The dataset also includes the "area" variable as a predictor of housing prices.
+In this scenario, I conducted an experiment where i applied Label Encoding and OneHot Encoding to the "town" variable in a dataset containing information about housing prices. The dataset also includes the "area" variable as a predictor of housing prices.
 
 After encoding the categorical variable, we built two separate linear regression models:
 
