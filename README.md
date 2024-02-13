@@ -1,5 +1,6 @@
 Feature Engineering -
 Label Encoding and OneHot Encoder
+
 Introduction:
 
 In the realm of predictive modeling and machine learning, encoding categorical variables is a crucial step in preparing data for analysis. Categorical variables, such as "town" in our dataset, represent qualitative data and cannot be directly used in mathematical models. Therefore, they need to be converted into numerical representations that machine learning algorithms can handle.
