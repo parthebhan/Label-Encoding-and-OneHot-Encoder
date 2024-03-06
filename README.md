@@ -1,6 +1,6 @@
-# Feature Engineering 
+# Feature Engineering  - Feature transformation
 
-## Label Encoding and OneHot Encoder
+## Label Encoding Vs OneHot Encoder
 
 Introduction:
 
